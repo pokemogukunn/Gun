@@ -1,6 +1,6 @@
 services:
   - type: web
-    name: edimayo-ru
+    name: ebimayo-ru
     env: python
     region: Oregon
     plan: free
